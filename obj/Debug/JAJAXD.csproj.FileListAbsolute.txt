@@ -1,0 +1,8 @@
+C:\Users\picka\source\repos\JAJAXD\obj\Debug\JAJAXD.csproj.AssemblyReference.cache
+C:\Users\picka\source\repos\JAJAXD\obj\Debug\JAJAXD.csproj.SuggestedBindingRedirects.cache
+C:\Users\picka\source\repos\JAJAXD\obj\Debug\JAJAXD.csproj.CoreCompileInputs.cache
+C:\Users\picka\source\repos\JAJAXD\bin\Debug\JAJAXD.exe.config
+C:\Users\picka\source\repos\JAJAXD\bin\Debug\JAJAXD.exe
+C:\Users\picka\source\repos\JAJAXD\bin\Debug\JAJAXD.pdb
+C:\Users\picka\source\repos\JAJAXD\obj\Debug\JAJAXD.exe
+C:\Users\picka\source\repos\JAJAXD\obj\Debug\JAJAXD.pdb
