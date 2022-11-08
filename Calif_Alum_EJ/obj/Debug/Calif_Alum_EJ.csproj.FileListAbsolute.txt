@@ -1,0 +1,7 @@
+C:\Users\Tecnologico\source\repos\Calif_Alum_EJ\bin\Debug\Calif_Alum_EJ.exe.config
+C:\Users\Tecnologico\source\repos\Calif_Alum_EJ\bin\Debug\Calif_Alum_EJ.exe
+C:\Users\Tecnologico\source\repos\Calif_Alum_EJ\bin\Debug\Calif_Alum_EJ.pdb
+C:\Users\Tecnologico\source\repos\Calif_Alum_EJ\obj\Debug\Calif_Alum_EJ.csproj.AssemblyReference.cache
+C:\Users\Tecnologico\source\repos\Calif_Alum_EJ\obj\Debug\Calif_Alum_EJ.csproj.CoreCompileInputs.cache
+C:\Users\Tecnologico\source\repos\Calif_Alum_EJ\obj\Debug\Calif_Alum_EJ.exe
+C:\Users\Tecnologico\source\repos\Calif_Alum_EJ\obj\Debug\Calif_Alum_EJ.pdb
